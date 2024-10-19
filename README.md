@@ -6,8 +6,8 @@ This repository contains the implementation of **Content-Based Recommendation Sy
 
 
 - Datasets link : [link](https://drive.google.com/drive/folders/1YQUi2zC2b6Bzb0SdI-NilPKReT2tA4iQ?usp=drive_link)
-- a video explain Content-Based Recommended System (in arabic) : [link](https://drive.google.com/drive/folders/1YQUi2zC2b6Bzb0SdI-NilPKReT2tA4iQ?usp=drive_link)
-- a video explain Content-Based Recommended System (in arabic) : [link](https://drive.google.com/drive/folders/1YQUi2zC2b6Bzb0SdI-NilPKReT2tA4iQ?usp=drive_link)
+- a video explain Content-Based Recommended System (in arabic) : [link](https://drive.google.com/file/d/1ocgE8JgvXGcM63FUVu0ZtC4t59XrKLnh/view?usp=drive_link)
+- a video explain Collaborative Filtering Recommended System (in arabic) : [link](https://drive.google.com/file/d/1IfUUziYJCpyE9XqyfKB1YHFSANisE1HW/view?usp=drive_link)
 
 ---
 
