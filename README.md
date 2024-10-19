@@ -1,2 +1,20 @@
 # Recommendation-System
-This Repo contains The Implementation of Content-Based Recommended System and Collaborative Filtering Recommended System for movies dataset in python.
+
+This repository contains the implementation of **Content-Based Recommendation System** and **Collaborative Filtering Recommendation System** using a movies dataset in Python.
+
+![Recommendation-System](img.webp)
+
+
+- Datasets link : [link](https://drive.google.com/drive/folders/1YQUi2zC2b6Bzb0SdI-NilPKReT2tA4iQ?usp=drive_link)
+- a video explain Content-Based Recommended System (in arabic) : [link](https://drive.google.com/drive/folders/1YQUi2zC2b6Bzb0SdI-NilPKReT2tA4iQ?usp=drive_link)
+- a video explain Content-Based Recommended System (in arabic) : [link](https://drive.google.com/drive/folders/1YQUi2zC2b6Bzb0SdI-NilPKReT2tA4iQ?usp=drive_link)
+
+---
+
+1. **Content-Based Recommendation:**
+   - Select a test movie (e.g., "The Matrix") and run the content-based recommendation system.
+   - Verify that the system outputs a list of recommended movies based on the similarity of content features.
+
+2. **Collaborative Filtering Recommendation:**
+   - Choose a test user ID (e.g., User ID = 1) and run the collaborative filtering system.
+   - Check that the system suggests movies based on the preferences of similar users.
